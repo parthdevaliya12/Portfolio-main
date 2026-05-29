@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 body {
-  font-family: "Outfit", sans-serif;  
+  font-family: "Outfit", sans-serif;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }

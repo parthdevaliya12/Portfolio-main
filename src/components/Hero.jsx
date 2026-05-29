@@ -14,7 +14,7 @@ export default function Hero() {
   };
 
   const copyEmail = () => {
-    navigator.clipboard.writeText("devparth63@gmail.com");
+    navigator.clipboard.writeText("parthdevaliya.official@gmail.com");
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };
@@ -78,7 +78,7 @@ export default function Hero() {
             </button>
 
             <a
-              href="/cv.pdf"
+              href="/PARTH_DEVALIYA-RESUME.pdf"
               download
               className="w-full sm:w-auto px-5 py-3 rounded-full border border-cyan-400/30 text-cyan-400 text-sm text-center"
             >
@@ -155,6 +155,7 @@ export default function Hero() {
                     <span className="text-green-400">stack</span>:{" "}
                     <span className="text-yellow-400">[</span>
                     <span className="text-orange-400">"React"</span>,
+                    <span className="text-orange-400">"Node"</span>,
                     <span className="text-orange-400">"Tailwind"</span>,
                     <span className="text-orange-400">"PHP"</span>,
                     <span className="text-orange-400">"MySQL"</span>

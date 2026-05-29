@@ -6,7 +6,7 @@ export default function Footer() {
   const [copied, setCopied] = useState(false);
 
   const copyEmail = () => {
-    navigator.clipboard.writeText("devparth63@gmail.com");
+    navigator.clipboard.writeText("parthdevaliya.official@gmail.com");
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };

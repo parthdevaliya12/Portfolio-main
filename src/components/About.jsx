@@ -82,7 +82,7 @@ export default function About() {
 
               <div className="flex items-center gap-3 bg-white/5 border border-white/10 p-3 rounded-lg">
                 <FaEnvelope className="text-cyan-400" />
-                <span className="text-sm">devparth63@gmail.com</span>
+                <span className="text-sm">parthdevaliya.official@gmail.com</span>
               </div>
 
               <div className="flex items-center gap-3 bg-white/5 border border-white/10 p-3 rounded-lg sm:col-span-2">

@@ -34,15 +34,6 @@ export default function Projects() {
       live: "",
     },
     {
-      title: "Expense Tracker",
-      desc: "SpendWithMe is a full-stack Group Expense Management web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create groups, add expenses, and track shared costs with friends or family. The app features user authentication, real-time updates, and a user-friendly interface for managing group expenses.",
-      tech: ["React", "Node", "MongoDB"],
-      icon: <FaChartLine />,
-      bg: "from-green-500/20 to-emerald-500/20",
-      github: "https://github.com/parthdevaliya12/SpendWithMe-ExpenseTracker",
-      live: "https://spendwithme.vercel.app/",
-    },
-    {
       title: "Real Estate Booking Platform (Airbnb Clone)",
       desc: "Esvio is a modern, responsive property listing and booking web application built using the MERN Stack.Users can list properties, browse listings, book properties, manage bookings, and update or delete their own listings",
       tech: ["React", "Node", "MongoDB"],
