@@ -6,7 +6,7 @@ A modern, fully responsive developer portfolio website built using React.js and 
 
 ## 🔗 Live Demo
 
-* https://your-domain.com
+* https://parthdevaliya.vercel.app
 
 ---
 
